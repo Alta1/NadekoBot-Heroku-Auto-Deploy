@@ -2,17 +2,17 @@
   "Version": 3,
   "Coins": {
     "Heads": [
-      "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/coins/heads.png"
+      "https://cdn.discordapp.com/attachments/541988890949713951/611275815828848666/heads.png"
     ],
     "Tails": [
-      "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/coins/tails.png"
+      "https://cdn.discordapp.com/attachments/541988890949713951/611275853741031425/tails.png"
     ]
   },
   "Currency": [
-    "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/currency/0.png",
+    "https://cdn.discordapp.com/attachments/541988890949713951/611271672481185804/0.png",
     "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/currency/1.png",
     "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/currency/2.png",
-    "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/currency/3.png"
+    "https://cdn.discordapp.com/attachments/541988890949713951/611271692303728676/3.png"
   ],
   "Dice": [
     "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/dice/0.png",
@@ -31,7 +31,7 @@
     "Dot": "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/rategirl/dot.png"
   },
   "Xp": {
-    "Bg": "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/xp/bg.png"
+    "Bg": "https://cdn.discordapp.com/attachments/541988890949713951/611271960323817515/oo.png"
   },
   "Rip": {
     "Bg": "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/rip/rip.png",
@@ -58,6 +58,6 @@
       "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/numbers/8.png",
       "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/numbers/9.png"
     ],
-    "Bg": "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/bg.png"
+    "Bg": "https://cdn.discordapp.com/attachments/541988890949713951/611283581414670346/bg_1.png"
   }
 }
